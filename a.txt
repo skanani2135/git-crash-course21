@@ -1,2 +1,3 @@
 add line 1
 fixed bug 11
+fixed bug 12
