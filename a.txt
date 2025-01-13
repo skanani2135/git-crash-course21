@@ -3,6 +3,7 @@ fixed bug 11
 fixed bug 12
 line 3
 Line 5
+Line 6
 Line 7
 Line 10
 Line 13Line 6
