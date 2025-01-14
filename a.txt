@@ -12,4 +12,6 @@ Line 32
 Line 33
 Line 32
 Line 35
-A--c
+A--B--Remotely
+A--C--Locally
+
