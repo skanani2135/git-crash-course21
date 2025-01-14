@@ -1,5 +1,4 @@
 line 0
-fixed bug 11
 fixed bug 12
 line 3
 Line 5
